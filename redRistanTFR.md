@@ -1,6 +1,6 @@
 ###The Problem
 
-Once upon a time there was a young man, Ristan, who wanted to visit his grandmother's house, across the woods. The woods is populated by Arson, 
+Once upon a time there was a young man, Ristan, who wanted to visit his grandmother's house, across the woods. Lurking in the woods is Big Bad Brooks, a wolf who eats those who dare enroach on his territory. Luckily for him, in the west side of the woods lives Arson, the Wolfslayer.  
 
 ###Your Mission
 
