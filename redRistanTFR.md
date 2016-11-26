@@ -5,7 +5,7 @@ def isPalindrome(arsonsWord):
  leftPos = 0
  rightPos = len(arsonsWord)-1
  
- while rightPost >= leftPos:
+ while rightPos >= leftPos:
   if not arsonsWord[leftPos] == arsonsWord[rightPos]:
    return False
   leftPos+=1
