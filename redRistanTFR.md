@@ -10,6 +10,6 @@ Write a function `isPalindrome`, to determine whether a string is a palindrome. 
 
 ###Requirements
 
- - Your function should take in a single string, `arsonsWord`
+ - Your function should take in a single string as its parameter, `arsonsWord`
  - Your function should check whether or not `arsonsWord` is a palindrome
  - Your function should return `True` or `False` depending on whether or not `arsonsWord` is a palindrome
